@@ -67,6 +67,10 @@ MAIN
   transition: 0.5s;
 }
 
+.img-hover:hover {
+  z-index: 1;
+}
+
 .heart {
   font-size: 30px;
   width: 50px;
