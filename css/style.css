@@ -25,7 +25,39 @@ COMMON
 HEADER
 ---------
 */
+header {
+  background-color: #ff6900;
+}
 
+nav {
+  padding: 20px 0;
+  color: white;
+  max-width: 1380px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#logo {
+  width: 150px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  column-gap: 10px;
+}
+
+ul li {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
 /*
 ---------
 MAIN
