@@ -49,7 +49,7 @@ ul {
   column-gap: 10px;
 }
 
-ul li {
+header ul li {
   font-weight: bold;
   font-size: 15px;
 }
@@ -164,3 +164,21 @@ MAIN
 FOOTER
 ---------
 */
+
+footer {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.foot {
+  max-width: 1380px;
+  margin: 0 auto;
+  display: flex;
+  padding: 25px 0;
+  justify-content: space-between;
+}
+
+footer h2,
+footer h3 {
+  margin-bottom: 10px;
+}
