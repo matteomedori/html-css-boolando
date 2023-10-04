@@ -35,7 +35,6 @@ MAIN
 .container {
   max-width: 1380px;
   margin: 60px auto;
-  height: 800px;
   display: flex;
   column-gap: 10px;
   row-gap: 30px;
