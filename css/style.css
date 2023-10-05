@@ -61,6 +61,16 @@ header nav {
   align-items: center;
 }
 
+.product-target,
+.user-part {
+  width: 20%;
+}
+
+.user-part {
+  display: flex;
+  justify-content: right;
+}
+
 #logo {
   width: 150px;
 }
