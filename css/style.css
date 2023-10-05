@@ -48,6 +48,7 @@ header {
   left: 0;
   right: 0;
   z-index: 999;
+  box-shadow: 0px 1px 10px 1px black;
 }
 
 header nav {
